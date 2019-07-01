@@ -1,0 +1,7 @@
+[2019-06-06 10:00:47,319 - log.py] - ERROR : createInstitutionProduct02
+[2019-06-06 10:00:47,320 - log.py] - ERROR : http://finance.cs.xiangqianpos.com/xdd-finance-web/admin/createInstitutionProduct
+[2019-06-06 10:00:47,320 - log.py] - ERROR : postbody
+[2019-06-06 10:00:47,320 - log.py] - ERROR : {'Content-Type': 'application/json', 'userCookiesName': 'km_ft_test', 'User-Agent': 'PostmanRuntime/7.13.0', 'Accept': '*/*', 'Cache-Control': 'no-cache', 'Postman-Token': '233fb312-a9c7-44ab-ac70-f1e66ddd0f47,379589a1-5b73-4b47-aa06-39ebee1a8019', 'Host': 'finance.cs.xiangqianpos.com', 'cookie': 'SERVERID=e98aa6e654c9fa4087fe9a140002da81|1558942076|1558942076', 'accept-encoding': 'gzip, deflate', 'content-length': '216', 'Connection': 'keep-alive', 'cache-control': 'no-cache'}
+[2019-06-06 10:00:47,321 - log.py] - ERROR : {'id': 21, 'institutionId': 2, 'institutionName': 'XDL', 'interestRate': 2, 'label': '2', 'labelId': 2, 'loanAmount': '300000', 'loanSpeed': '3', 'name': 'sxd', 'sort': 21, 'status': 1}
+[2019-06-06 10:00:47,321 - log.py] - ERROR : 接口测试断言错误
+[2019-06-06 10:00:47,322 - log.py] - ERROR : 0等于0
